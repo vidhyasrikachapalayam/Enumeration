@@ -67,6 +67,8 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ## dnsenum
 ![image](https://github.com/user-attachments/assets/7585a441-b8f4-40e5-9775-065e4f803579)
 
+## smtp-user-enum:
+![image](https://github.com/user-attachments/assets/e5dd0d71-bb6a-4c47-8ae2-fcc442266c8c)
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
