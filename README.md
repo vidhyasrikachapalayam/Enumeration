@@ -1,3 +1,5 @@
+## Name: Vidhyasri
+## Reg.no.: 212222230170
 # EX NO 3 Enumeration
 Enumeration Techniques
 
@@ -22,43 +24,35 @@ Investigate on the various Google hacking keywords and enumeration tools as foll
 Open terminal and try execute some kali linux commands
 
 ## Pen Test Tools Categories:  
+## Google Hacking:
+## site:
 
-Following Categories of pen test tools are identified:
-Information Gathering.
-
-Google Hacking:
-
-Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
-
-site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
-Following searches for all the sites that is in the domain yahoo.com
-![image](https://github.com/user-attachments/assets/a0685425-b59f-4f88-9df5-348fa3b61096)
-
-
-
-filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
-Following searches for pdf file in the domain yahoo.com
-![image](https://github.com/user-attachments/assets/302fbd0b-abd6-4ffa-9620-9668ad86ae70)
-
-intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
-![image](https://github.com/user-attachments/assets/13af19ba-0807-4a5a-b7de-88a5f92d5fb3)
-
-
-
-inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
-![image](https://github.com/user-attachments/assets/763a3da5-1eff-4a49-abce-e820df0586c5)
-
-intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
-![image](https://github.com/user-attachments/assets/7483ae9b-f86d-475d-aa12-7834b2183f4a)
-
-link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
-![image](https://github.com/user-attachments/assets/e81048b9-c9f6-4b52-85c3-33f0fd7a9d14)
-
-
-cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
-![image](https://github.com/user-attachments/assets/46bf1c49-e35f-4f23-9548-1142461faedf)
-
+ ![image](https://github.com/user-attachments/assets/f623ff6e-f769-4d92-a150-117cb8d2a390)
  
+## filetype:
+
+![image](https://github.com/user-attachments/assets/37912e04-7853-409e-9121-94730e090c21)
+
+## intext:
+
+![image](https://github.com/user-attachments/assets/31987ecb-ff5c-4fb6-a6d4-b5370bb5742d)
+
+## inurl:
+
+![image](https://github.com/user-attachments/assets/56240763-1e76-49b9-b6b9-8c33c4a7fc4d)
+
+## intitle:
+
+![image](https://github.com/user-attachments/assets/fe190c82-df00-4574-bbe0-a1621cd20f38)
+
+## link:
+
+![image](https://github.com/user-attachments/assets/3001d031-a7ec-45d2-af00-33f79418c3e6)
+
+## cache:
+
+![image](https://github.com/user-attachments/assets/5cba2893-8ae3-4975-a1fe-a1458ca1218d)
+
 # DNS Enumeration
 ## DNS Recon
 ![image](https://github.com/user-attachments/assets/92ca26e1-3a33-4e3c-89c0-916101acfee9)
